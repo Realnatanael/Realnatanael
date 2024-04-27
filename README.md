@@ -1,6 +1,6 @@
 <h1>Hello! I'm Natanael Nascimento.🙋🏾</h1>
 <p>Tech recruiteres🧑‍💻 or code stealing stalkers🕵️‍♂️ are welcome on this profile!!!✨</p>
-<p>I am a web developer with knowledge of the following languages:</p>
+<p>I am a web developer with knowledge of the following languages and tools:</p>
 <table>
   <tbody>
     <tr>
@@ -36,8 +36,6 @@
         />
         <img width="12" /> React
       </td>
-    </tr>
-    <tr>
       <td>
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
@@ -46,8 +44,6 @@
         />
         <img width="12" /> MongoDB
       </td>
-    </tr>
-    <tr>
       <td>
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"

@@ -63,3 +63,6 @@
     </tr>
   </tbody>
 </table>
+
+##Projects Deploy:
+###AmazonasFC Fan's Blog: <https://deploy-amazonasfc.onrender.com/>

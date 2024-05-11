@@ -9,5 +9,6 @@ I am a web developer with knowledge of the following languages and tools:
 
 ## Projects Deploy:
 **Amazonas FC Fan's Blog:** [Site(Aguarde 2 minutos ao clicar)](https://deploy-amazonasfc.onrender.com/)
+
 **Poema em cordel:** [Site](https://realnatanael.github.io/ProjetocCordel/)
 

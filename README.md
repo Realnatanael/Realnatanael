@@ -7,6 +7,9 @@ Tech recruiters🧑‍💻 or code-stealing stalkers🕵️‍♂️ are welcome
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=realnatanael&show_icons=true&theme=dark&include_all_commits-true&count_private-true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realnatanael&layout=compact&langs_count=16&theme=dark"/>
 </div>
+    
+### Currently I'm dedicating my learning/studs in the following languages, libraries, frameworks and tools:
+    
 <div style="display: inline_block"><br>
   <img align="center" alt="type" height="70" width="65"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="type" height="70" width="65"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />

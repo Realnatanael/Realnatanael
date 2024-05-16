@@ -8,13 +8,19 @@ Tech recruiters🧑‍💻 or code-stealing stalkers🕵️‍♂️ are welcome
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realnatanael&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
-### 🧑🏾‍💻Currently I'm dedicating my learning📈/studs📚 in the following languages, libraries, frameworks and tools:
-    
+### 🧑🏾‍💻Currently I'm dedicating my learning📈/studs📚 in the following...
+#### languages:
 <div style="display: inline_block"><br>
   <img align="center" alt="type" height="70" width="65"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="type" height="70" width="65"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" alt="type" height="70" width="65"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
   <img align="center" alt="type" height="70" width="65"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
+</div>
+
+#### libraries:
+#### frameworks: 
+    
+
   <img align="center" alt="type" height="70" width="65"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
   <img align="center" alt="type" height="70" width="65"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
   <img align="center" alt="type" height="70" width="65"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
@@ -23,7 +29,7 @@ Tech recruiters🧑‍💻 or code-stealing stalkers🕵️‍♂️ are welcome
   <img align="center" alt="type" height="70" width="65"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
   <img align="center" alt="type" height="70" width="65"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
   <img align="center" alt="type" height="70" width="65"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" />
-</div>
+
 
 
 ## Projects Deploy:

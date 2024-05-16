@@ -7,6 +7,11 @@ Tech recruiters🧑‍💻 or code-stealing stalkers🕵️‍♂️ are welcome
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=realnatanael&show_icons=true&theme=dark&include_all_commits-true&count_private-true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realnatanael&layout=compact&langs_count=16&theme=dark"/>
 </div>
+
+## My progress:
+
+
+[![roadmap.sh](https://roadmap.sh/card/tall/66417f6cbe1325bdf39555f9?variant=dark&roadmaps=full-stack%2Cfrontend%2Cbackend)](https://roadmap.sh)
     
 ### 🧑🏾‍💻Currently I'm dedicating my learning📈/studs📚 in the following languages, libraries, frameworks and tools:
     
@@ -23,9 +28,9 @@ Tech recruiters🧑‍💻 or code-stealing stalkers🕵️‍♂️ are welcome
   <img align="center" alt="type" height="70" width="65"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
   <img align="center" alt="type" height="70" width="65"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
   <img align="center" alt="type" height="70" width="65"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" />
-
 </div>
-    
+
+
 ## Projects Deploy:
 **Amazonas FC Fan's Blog:** [Site(Aguarde 2 minutos ao clicar)](https://deploy-amazonasfc.onrender.com/)
 

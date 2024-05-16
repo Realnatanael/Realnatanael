@@ -11,8 +11,8 @@ Tech recruiters🧑‍💻 or code-stealing stalkers🕵️‍♂️ are welcome
 ## My progress:
 
 
-[![roadmap.sh](https://roadmap.sh/card/tall/66417f6cbe1325bdf39555f9?variant=dark&roadmaps=full-stack%2Cfrontend%2Cbackend)](https://roadmap.sh)
-    
+[![roadmap.sh](https://roadmap.sh/card/wide/66417f6cbe1325bdf39555f9?variant=dark&roadmaps=full-stack%2Cfrontend%2Cbackend)](https://roadmap.sh)
+
 ### 🧑🏾‍💻Currently I'm dedicating my learning📈/studs📚 in the following languages, libraries, frameworks and tools:
     
 <div style="display: inline_block"><br>

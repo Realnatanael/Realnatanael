@@ -31,16 +31,9 @@ Tech recruiters🧑‍💻 or code-stealing stalkers🕵️‍♂️ are welcome
 </div>
 
 #### frameworks: 
-    
-
-  <img align="center" alt="type" height="70" width="65"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
-  <img align="center" alt="type" height="70" width="65"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
+  <div style="display: inline_block"><br>  <img align="center" alt="type" height="70" width="65"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+</div>
   
-  <img align="center" alt="type" height="70" width="65"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-  
-  
-
-
 
 
 ## Projects Deploy:

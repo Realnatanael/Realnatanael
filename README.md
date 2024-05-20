@@ -5,7 +5,7 @@ Tech recruiters🧑‍💻 or code-stealing stalkers🕵️‍♂️ are welcome
 <div>
   <a href="https://github.com/Realnatanael">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=realnatanael&show_icons=true&theme=dark&include_all_commits-true&count_private-true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realnatanael&layout=donut&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realnatanael&layout=compact&theme=dark"/>
 </div>
 
 ### 🧑🏾‍💻Currently I'm dedicating my learning📈/studs📚 in the following...

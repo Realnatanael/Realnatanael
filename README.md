@@ -5,7 +5,7 @@ Tech recruiters🧑‍💻 or code-stealing stalkers🕵️‍♂️ are welcome
 <div>
   <a href="https://github.com/Realnatanael">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=realnatanael&show_icons=true&theme=dark&include_all_commits-true&count_private-true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realnatanael&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realnatanael&layout=pie&theme=dark"/>
 </div>
 
 ### 🧑🏾‍💻Currently I'm dedicating my learning📈/studs📚 in the following...
@@ -40,4 +40,3 @@ Tech recruiters🧑‍💻 or code-stealing stalkers🕵️‍♂️ are welcome
 **Amazonas FC Fan's Blog:** [Site(Aguarde 2 minutos ao clicar)](https://deploy-amazonasfc.onrender.com/)
 
 **Poema em cordel:** [Site](https://realnatanael.github.io/ProjetocCordel/)
-
